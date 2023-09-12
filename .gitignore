@@ -33,7 +33,7 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
-bin
+
 ###> lexik/jwt-authentication-bundle ###
 /config/jwt/*.pem
 ###< lexik/jwt-authentication-bundle ###
